@@ -91,7 +91,7 @@ This project is fully reproducible with minimal setup. All code runs in Python 3
 
 **Step 1:** Clone this repository
 ```bash
-git clone https://github.com/riyashet/healthcare-ftr-prediction.git
+git clone https://github.com/riyashet-hds/healthcare-ftr-prediction.git
 cd healthcare-ftr-prediction
 ```
 
@@ -165,8 +165,8 @@ All charts and tables from the analysis are saved in `outputs/figures/` with pub
 
 **Riya Shet**  
 Quantitative Consultant | Health Economics & Predictive Modeling  
-GitHub: [@riyashet](https://github.com/riyashet)  
-LinkedIn: [linkedin.com/in/riyashet](https://www.linkedin.com/in/riyashet)
+GitHub: [@riyashet-hds](https://github.com/riyashet-hds)  
+LinkedIn: [linkedin.com/in/riyashet-hds](https://www.linkedin.com/in/riyashet-hds)
 
 I am available for consulting engagements in healthcare analytics, revenue cycle optimization, and predictive modeling for health systems and strategy firms. This project demonstrates my ability to translate clinical data into actionable business insights using rigorous quantitative methods.
 
@@ -190,7 +190,7 @@ If you use or adapt this methodology in your work, please cite this repository a
 **Suggested Citation:**
 ```
 Shet, R. (2026). Healthcare Revenue Cycle Optimization: Predicting Financial Toxicity Risk. 
-GitHub repository: https://github.com/riyashet/healthcare-ftr-prediction
+GitHub repository: https://github.com/riyashet-hds/healthcare-ftr-prediction
 ```
 
 ---

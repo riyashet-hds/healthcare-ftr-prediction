@@ -213,4 +213,4 @@ All charts reference figures generated in `notebooks/ftr_analysis_complete.ipynb
 
 **Prepared By:** Riya Shet  
 **Date:** February 2026  
-**Contact:** [GitHub: @riyashet](https://github.com/riyashet)
+**Contact:** [GitHub: @riyashet-hds](https://github.com/riyashet-hds)
